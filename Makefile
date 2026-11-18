@@ -28,7 +28,7 @@ CXX				=	clang
 
 AR				=	ar -rcs
 
-CXXFLAGS		= 	-g -Wall -Wextra -Werror
+CXXFLAGS		= 	#-Wall -Wextra -Werror
 
 INCLUDE 		= 	-I${INC}
 
